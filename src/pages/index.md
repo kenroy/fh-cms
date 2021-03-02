@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: experts in creative travel
+image: /img/arctic-sunset_2048.png
+heading: Far Horizons understands your needs.
+subheading: Serving Ottawa and vicinity since 1986
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Far Horizons
+  description: Personalized service, experience, and attention to detail.
+description: In business since 1986, Far Horizons recognizes the need for
+  experienced agents in today's Internet age. Our clients appreciate the values
+  of a full-service travel agency.
 intro:
   blurbs:
     - image: /img/coffee.png
